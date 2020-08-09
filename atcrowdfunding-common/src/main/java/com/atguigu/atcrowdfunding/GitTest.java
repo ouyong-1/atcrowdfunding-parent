@@ -7,6 +7,6 @@ package com.atguigu.atcrowdfunding;
 public class GitTest {
 
     public static void main(String[] args) {
-        System.out.println("你好GitHub！！！");
+        System.out.println("你好GitHub！！！dev...");
     }
 }
